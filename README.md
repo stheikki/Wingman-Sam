@@ -1,2 +1,3 @@
 # Wingman-Sam
 - Wingman Sam game created in Java
+- Description: An active game for two players. Objective is to shoot at enemy planes while avoiding enemy bullets and collecting powerups until the players reach the final stage of defeating the enemy leader. Game ends when either of the players gets destroyed. Commands for Player1 (arrow keys to move, enter to shoot) and for Player2 (a,s,d,w to move, space bar to shoot). In the beginning of the game, press space bar to start.
